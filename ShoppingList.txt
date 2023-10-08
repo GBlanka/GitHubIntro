@@ -6,3 +6,5 @@ potatoes
 cherries
 carrots
 cereal
+Radishes
+Cucumbers
