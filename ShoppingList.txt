@@ -5,3 +5,4 @@ oranges
 potatoes
 cherries
 carrots
+cereal
